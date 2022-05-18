@@ -20,7 +20,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/meauma13
-- Live Site URL: https://web3-0-murex.vercel.app
+- Live Site URL: https://web3-0-nft-preview.vercel.app/
 
 ## My process
 
@@ -33,6 +33,6 @@ Users should be able to:
 - Mobile-first workflow
 
 
-### Continued development
+### Update
 
-1. Still trying to perfect the hover image overlay
+Fixed the image overlay
