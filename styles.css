@@ -21,7 +21,7 @@ p {
     background: hsl(216, 50%, 16%);
     border-radius: 20px;
     margin: 30px;
-    display: inline-flexbox;
+    display: inline-flex;
     align-items: center;
     justify-content: center;
     position: relative;
@@ -46,8 +46,6 @@ p {
     height: 100%;
     background-color: #00FFF8;
     /*margin: -324px 0px;*/
-    align-items: center;
-    justify-content: center;
     display: none;
 }
 
