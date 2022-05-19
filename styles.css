@@ -53,8 +53,8 @@ p {
 .imgcon:hover .img-swap {
     display: block;
     margin: 120px 123px;
-    /*background-color: white;*/
-    opacity: 0.5;
+    /*background-color: white;
+    opacity: 0.5;*/
 }
 
 .imgcon:hover .overlay {
