@@ -36,7 +36,6 @@ p {
 .img-swap {
     display: none;
     position: absolute;
-    border-radius: 50px;
 }
 
 .overlay {
@@ -54,7 +53,7 @@ p {
 .imgcon:hover .img-swap {
     display: block;
     margin: 120px 123px;
-    background-color: hsla(178, 100%, 50%, .503)
+    background-color: hsla(178, 100%, 50%, .03);
 }
 
 .imgcon:hover .overlay {
@@ -118,6 +117,7 @@ span {
     font-size: x-large;
     margin-left: 30px;
     margin-bottom: 30px;
+    width: fit-content;
 }
 
 
