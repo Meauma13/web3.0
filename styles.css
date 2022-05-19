@@ -36,6 +36,8 @@ p {
 .img-swap {
     display: none;
     position: absolute;
+    height: 302px;
+    width: 302px;
 }
 
 .overlay {
