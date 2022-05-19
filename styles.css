@@ -51,9 +51,10 @@ p {
 }
 
 .imgcon:hover .img-swap {
-    display: inline-block;
+    display: block;
     margin: 120px 123px;
     color: white;
+    z-index: 9;
     /*background-color: white;
     opacity: 0.5;*/
 }
