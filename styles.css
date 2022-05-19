@@ -53,7 +53,7 @@ p {
 .imgcon:hover .img-swap {
     display: block;
     margin: 120px 123px;
-    fill: white;
+    color: hsl(0, 0%, 100%);
     /*background-color: white;
     opacity: 0.5;*/
 }
