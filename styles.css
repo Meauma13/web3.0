@@ -21,7 +21,9 @@ p {
     background: hsl(216, 50%, 16%);
     border-radius: 20px;
     margin: 30px;
-    display: inline-block;
+    display: inline-flexbox;
+    align-items: center;
+    justify-content: center;
     position: relative;
     width: 290px;
     height: 300px;
