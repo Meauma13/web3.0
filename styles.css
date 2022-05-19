@@ -36,10 +36,8 @@ p {
 .img-swap {
     display: none;
     position: absolute;
-    cx: 200;
-    cy: 80;
-    rx: 100;
-    ry: 50;
+    rx: 100px;
+    ry: 30px;
 }
 
 .overlay {
